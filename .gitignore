@@ -1,0 +1,9 @@
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+/logs/
+.DS_Store
+.idea/
+*.com
+*.class
+# Si tu as mis tes ID Google en dur dans application.properties,
+# fais attention ou utilise des variables d'environnement !
