@@ -32,6 +32,8 @@ L'application permet à un utilisateur de se connecter avec son compte Google et
 ### 1. Prérequis
 - Un compte [Google Cloud Console](https://console.cloud.google.com/).
 - Java 17 ou supérieur installé.
+<img width="1915" height="943" alt="Screenshot 2026-03-27 023311" src="https://github.com/user-attachments/assets/d5b1a69d-5518-4c34-ae6b-9a42290d7200" />
+
 
 ### 2. Configuration Google Cloud
 1. Créez un projet dans Google Cloud Console.
